@@ -4,3 +4,6 @@ Git creates a .git folder to start saving metadata, its necessary if you wan to 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Its a middle area between the working directory and the repository where you put all the files you want to commit at the same time, i think it helps on 
 organizing your commits by functionality
+
+How can you use the staging area to make sure you have one commit per logical change?
+Adding only the files with the logical change and then making a commit to the repo
