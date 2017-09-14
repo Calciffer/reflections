@@ -1,0 +1,12 @@
+
+git init
+Convierte un directorio normal en un repositorio
+
+git commit
+git checkout
+git diff
+git log
+git branch
+
+git log --graph --oneline master coins
+Pintar el arbol del repositorio para 2 branch diferentes
