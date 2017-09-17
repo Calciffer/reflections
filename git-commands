@@ -2,11 +2,16 @@
 git init
 Convierte un directorio normal en un repositorio
 
+git add
 git commit
+git status
+
 git checkout
 git diff
 git log
-git branch
+git branch : mostrara los branch disponibles y en cual estas si se deja sin argumentos
+git show : cuando se le pasa un id, muestra los cambios en ese commit respecto al padre
+
 
 git log --graph --oneline master coins
 Pintar el arbol del repositorio para 2 branch diferentes

@@ -13,3 +13,9 @@ They are helpfull when you need to make experimental changes or big enough chang
 
 How do the diagrams help you visualize the branch structure?
 The diagram helps to understand what kind of new features or experimental features are there.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A new branch with the changes of one branched merged into another. .... to make it more clear to understand i think.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If nothing is in conflict, merge its a great deal, otherwise i could lead to big time fixing all the differences. 
